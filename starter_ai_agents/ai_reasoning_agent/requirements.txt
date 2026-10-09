@@ -1,4 +1,6 @@
-agno
+agno==1.8.4
 ollama
+openai
 fastapi
+tomli
 uvicorn
